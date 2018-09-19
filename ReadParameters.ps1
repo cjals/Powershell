@@ -13,7 +13,7 @@
 # 		entrada2_1 = dato2_1
 # 		entrada2_2 = dato2_2
 # 		Obtener la entrada "dato2_2": $Parameters["cabecera 2"]["dato2_2"]
-#
+# Prueba de cambio
  
 Function ReadParameters
 {
